@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\bin\Debug\net8.0\tahap-akhir-nawadata.exe
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\bin\Debug\net8.0\tahap-akhir-nawadata.deps.json
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\bin\Debug\net8.0\tahap-akhir-nawadata.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\bin\Debug\net8.0\tahap-akhir-nawadata.dll
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\bin\Debug\net8.0\tahap-akhir-nawadata.pdb
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.dll
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\refint\tahap-akhir-nawadata.dll
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.pdb
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\tahap-akhir-nawadata.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\tahap-akhir-nawadata\tahap-akhir-nawadata\obj\Debug\net8.0\ref\tahap-akhir-nawadata.dll
